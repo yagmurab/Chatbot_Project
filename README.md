@@ -4,9 +4,9 @@ Bu proje, Google Generative AI API'sini kullanarak bir sohbet uygulaması oluşt
 ## Başlangıç
 
 ### Gereksinimler
-Python 3.7+
-Gradio
-Google Generative AI API
+- Python 3.7+
+- Gradio
+- Google Generative AI API
 
 ### Kurulum
 Gerekli paketleri yüklemek için:
