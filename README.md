@@ -1,5 +1,5 @@
 # Yapay Zeka Sohbet Uygulaması
-Bu proje, Google Generative AI API'sini kullanarak bir sohbet uygulaması oluşturan bir Gradio arayüzü sağlar. Kullanıcı tarafından girilen metni işleyerek, yapay zeka modelinden bir yanıt üretir ve yanıtı kullanıcıya gösterir.
+Bu proje, Google Generative AI API'sini kullanarak bir sohbet uygulaması oluşturan bir Gradio arayüzü sağlar. Kullanıcı tarafından girilen metni işleyerek, yapay zeka modelinden bir yanıt üretir ve yanıtı kullanıcıya gösterir. Log kayıtlarını ve sohbet geçmişini bir dosya olarak kaydedip günceller.
 
 ## Başlangıç
 
